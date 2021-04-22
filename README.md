@@ -16,3 +16,4 @@ previous version only work well on device of 1080 * 1920 resolution ratio, this 
 
 "# scanner" 
 "# abc" 
+"# scanner" 
